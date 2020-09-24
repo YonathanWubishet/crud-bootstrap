@@ -27,6 +27,7 @@ gem 'factory_bot'
 gem 'rubocop', require: false
 gem 'pry-byebug'
 gem 'faraday'
+gem 'kaminari'
 
 # Use Rack CORS for handling Cross-Origin Resource Sharing (CORS), making cross-origin AJAX possible
 # gem 'rack-cors'
